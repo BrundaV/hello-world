@@ -13,7 +13,7 @@
 void endian_conv(void);
 
 /*---------------Global variables-------------------------- */
-uint32_t b0,b1,b2,b3;
+uint32_t b0,b1,b2,b3
 int x=0x320a10ca,conv_x;
 unsigned char *c=(unsigned char *)&x;
 
